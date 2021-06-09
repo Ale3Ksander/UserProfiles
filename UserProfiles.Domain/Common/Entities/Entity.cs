@@ -9,7 +9,7 @@ namespace UserProfiles.Domain.Common.Entities
         //public Guid CreatedById { get; set; }
         public DateTime? UpdatedAt { get; set; }
         //public Guid? UpdatedById { get; set; }
-
+        //
         protected Entity()
         {
 
